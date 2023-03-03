@@ -1,5 +1,5 @@
 # NLW eSports 
-![preview](./github/_C__Users_Mariana%2520Sauer_OneDrive_%25C3%2581rea%2520de%2520Trabalho_nwl%2520esports_index.html.png)
+![screencapture-file-C-Users-Mariana-Sauer-OneDrive-Area-de-Trabalho-Pizzaria-work-nwl-esports-index-html-2023-03-02-23_29_31](https://user-images.githubusercontent.com/105138712/222617228-2dc4a278-52cc-46c7-882b-04223e1cbc5f.png)
 
 >Trilha Explorer
 
